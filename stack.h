@@ -1,11 +1,12 @@
 #pragma once
-//#define N 100
+#define N 100
 class Stack
 {
 public:
 	Stack() { top = -1; }
 	~Stack(){}
-
+	
+        int size = N;
 	int a[N];
 
 	int pop();
