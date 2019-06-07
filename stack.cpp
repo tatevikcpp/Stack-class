@@ -3,7 +3,7 @@
 
 bool Stack::push(int x)
 {
-	if (top >= (100 - 1))
+	if (top >= (size - 1))
 	{
 		std::cout << "Stack Overflow \n"; 
 			return false;
