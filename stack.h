@@ -1,12 +1,12 @@
 #pragma once
-//#define size 100
+//#define N 100
 class Stack
 {
 public:
 	Stack() { top = -1; }
 	~Stack(){}
 
-	int a[100];
+	int a[N];
 
 	int pop();
 	bool push(int x);
