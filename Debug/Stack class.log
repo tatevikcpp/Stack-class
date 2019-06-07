@@ -1,0 +1,125 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(50): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(58): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::initializer_list<_Elem>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(51): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(28): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(32): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::integer_sequence<_Ty,_Vals...>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(29): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(42): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(42): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(52): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(52): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(62): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(62): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(72): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(72): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1636): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1636): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1637): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1638): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1638): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1644): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1644): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1645): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1645): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1667): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2557): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2573): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2590): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(3300): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4006): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::basic_string<_Elem,_Traits,_Alloc>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(3301): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2422): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2427): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2432): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2437): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2442): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2448): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2455): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4006): error C2064: результатом вычисления фрагмента не является функция, принимающая 0 аргументов
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4051): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4067): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4081): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4097): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4111): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4144): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4389): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4391): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::hash<std::basic_string<_Elem,_Traits,_Alloc>>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(119): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(137): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(155): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocale(263): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocale(263): note: Сообщение диагностики возникло в созданной компилятором функции "bool std::locale::operator ()(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) const"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(815): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1394): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::num_get<_Elem,_InIt>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(998): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1246): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1519): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1833): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::num_put<_Elem,_OutIt>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1591): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1615): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1703): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1790): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  stack.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(50): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(58): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::initializer_list<_Elem>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\initializer_list(51): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(28): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(32): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::integer_sequence<_Ty,_Vals...>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\type_traits(29): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(42): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(42): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(52): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(52): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(62): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(62): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(72): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wio.h(72): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1636): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1636): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1637): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1638): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1638): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1644): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1644): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1645): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1645): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(1667): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2557): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2573): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2590): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(3300): error C2059: синтаксическая ошибка: константа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4006): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::basic_string<_Elem,_Traits,_Alloc>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(3301): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2422): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2427): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2432): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2437): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2442): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2448): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(2455): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4006): error C2064: результатом вычисления фрагмента не является функция, принимающая 0 аргументов
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4051): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4067): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4081): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4097): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4111): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4144): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4389): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstring(4391): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::hash<std::basic_string<_Elem,_Traits,_Alloc>>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(119): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(137): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(155): error C2589: константа: недопустимая лексема справа от "::"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocale(263): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocale(263): note: Сообщение диагностики возникло в созданной компилятором функции "bool std::locale::operator ()(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) const"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(815): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1394): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::num_get<_Elem,_InIt>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(998): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1246): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1519): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1833): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::num_put<_Elem,_OutIt>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1591): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1615): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1703): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xlocnum(1790): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  Создание кода...
